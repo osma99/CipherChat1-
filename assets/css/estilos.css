@@ -6,7 +6,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: #f0f0f0; /* Color de fondo de la página */
-    background-image: url(/media/encri.jpg)
+    background-image: url(/assets/media/encri.jpg)
   }
   
   h1 {
